@@ -4,3 +4,7 @@
 **Interests and Hobbies:** Music,Reading novels
 **Interesting Git features:**How branching allows isolated work without affecting the main codebase.
 **Useful Git Command:** 'git status' -shows which files are staged, untracked, or modified.
+
+markdown
+## What I Learned
+I am learning how Git and Github work togther
